@@ -133,7 +133,7 @@ export default () => {
           q2: {
             question: 'What are available wallets?',
             answer:
-              'Cashew mobile wallet for <a href="https://play.google.com/store/apps/details?id=org.cashweb.cashew" target="_blank"> Android</a> and <a href="https://apps.apple.com/us/app/cashew-wallet/id1539306720" target="_blank">iPhone</a>. You can also run lightweight Lotus Node for <a href="https://storage.googleapis.com/lotus-project/lotus-2.0.3-win64-setup-unsigned.exe" target="_blank">Windows</a>, <a href="https://storage.googleapis.com/lotus-project/lotus-2.0.3-osx-unsigned.dmg" target="_blank">MacOS</a> and <a href="https://storage.googleapis.com/lotus-project/lotus-2.0.3-x86_64-linux-gnu.tar.gz" target="_blank">Linux</a>. ',
+              'Vase mobile wallet for <a href="https://play.google.com/store/apps/details?id=org.cashweb.cashew" target="_blank"> Android</a> and <a href="https://apps.apple.com/us/app/cashew-wallet/id1539306720" target="_blank">iPhone</a>. You can also run lightweight Lotus Node for <a href="https://storage.googleapis.com/lotus-project/lotus-2.0.3-win64-setup-unsigned.exe" target="_blank">Windows</a>, <a href="https://storage.googleapis.com/lotus-project/lotus-2.0.3-osx-unsigned.dmg" target="_blank">MacOS</a> and <a href="https://storage.googleapis.com/lotus-project/lotus-2.0.3-x86_64-linux-gnu.tar.gz" target="_blank">Linux</a>. ',
           },
           q3: {
             question: 'How do I get Lotus?',
